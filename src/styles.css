@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+.btn {
+    background-color: darkblue;
+    padding: 1em 3em;
+    color: white;
+    font-weight: 700;
+    margin-right: 2em;
+    border-radius: 0.5rem;
+}
